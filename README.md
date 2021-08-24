@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AdrianITT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![](https://images.cooltext.com/5548432.png)
+
+👋 Hola, soy @AdrianITT
+👀 
+🌱 Actualmente estoy estigiando en el intutito tecnologico de tijuana, estudo Ingenieria en sistemas computacionales
+💬  Soy un antiguo estudiente de cobach 
 
 <!---
 AdrianITT/AdrianITT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
