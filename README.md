@@ -1,6 +1,6 @@
 ![](https://images.cooltext.com/5548432.png)
 
-###👋 Hola, soy @AdrianITT
+👋 Hola, soy @AdrianITT
 👀 
 
 -🌱 Actualmente estoy estigiando en el intutito tecnologico de tijuana, estudo Ingenieria en sistemas computacionales
