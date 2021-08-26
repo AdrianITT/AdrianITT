@@ -18,3 +18,5 @@ desarrollo sustentable	desarrollo sustentable	desarrollo sustentable	desarrollo 
 Administracion de base de datos	Administracion de base de datos	Administracion de base de datos	Administracion de base de datos	Administracion de base de datos
 Progamacion logica y funcional	Progamacion logica y funcional	Progamacion logica y funcional	Progamacion logica y funcional	Progamacion logica y funcional
 ![image](https://user-images.githubusercontent.com/80360127/130897583-c4dab7ba-c39e-4593-921c-2777559f84d9.png)
+
+Sigueme ne  Twich: https://www.twitch.tv/the_zukaritas
