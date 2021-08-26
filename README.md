@@ -8,7 +8,8 @@
 -💬  Soy un antiguo estudiente de cobach
 
 -🎉 Megusta dibujar y jugar videojuegos
-👍 
+
+-👍 Correo : adrian.alvarez19@tectijuana.edu.mx
 
 <!---
 AdrianITT/AdrianITT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
