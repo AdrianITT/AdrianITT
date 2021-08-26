@@ -2,8 +2,12 @@
 
 👋 Hola, soy @AdrianITT
 👀 
-🌱 Actualmente estoy estigiando en el intutito tecnologico de tijuana, estudo Ingenieria en sistemas computacionales
-💬  Soy un antiguo estudiente de cobach 
+
+-🌱 Actualmente estoy estigiando en el intutito tecnologico de tijuana, estudo Ingenieria en sistemas computacionales
+
+-💬  Soy un antiguo estudiente de cobach
+-🎉 Megusta dibujar y jugar videojuegos
+👍 
 
 <!---
 AdrianITT/AdrianITT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
