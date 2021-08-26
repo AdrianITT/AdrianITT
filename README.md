@@ -6,6 +6,7 @@
 -🌱 Actualmente estoy estigiando en el intutito tecnologico de tijuana, estudo Ingenieria en sistemas computacionales
 
 -💬  Soy un antiguo estudiente de cobach
+
 -🎉 Megusta dibujar y jugar videojuegos
 👍 
 
