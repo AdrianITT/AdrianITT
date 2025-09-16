@@ -1,6 +1,6 @@
 ![](https://images.cooltext.com/5548432.png)
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
 
 👋 Hola, soy @AdrianITT
 👀 
