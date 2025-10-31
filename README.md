@@ -25,5 +25,3 @@ AdrianITT/AdrianITT is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-Sigueme ne  Twich: https://www.twitch.tv/the_zukaritas
