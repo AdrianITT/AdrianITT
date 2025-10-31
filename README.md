@@ -11,7 +11,7 @@
 
 -🎉 Megusta dibujar y jugar videojuegos
 
--👍 Correo : adrian.alvarez19@tectijuana.edu.mx
+-👍 Correo : adriancvtj@gmail.com
 
 -conocimientos basicos de leguage:
 -React    -Python
