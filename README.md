@@ -1,8 +1,8 @@
-![](https://images.cooltext.com/5548432.png)
 
 
-
-<h1 align="center">👨‍💻 AdrianITT</h1>
+<p align="center">
+  <img src="https://images.cooltext.com/5548432.png" alt="AdrianITT" />
+</p>
 <h3 align="center">Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador Web Full-Stack en formación</h3>
 
 ---
