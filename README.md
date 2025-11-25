@@ -56,8 +56,8 @@ Aplicación práctica enfocada en componentes dinámicos y conexión con Firebas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianITT&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianITT&layout=compact&theme=radical" height="150" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianITT&layout=compact&theme=radical](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianITT&theme=vision_friendly_dark)" height="150" />
 </p>
-![Resumen]](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianITT&theme=vision_friendly_dark)
 
 ---
 
