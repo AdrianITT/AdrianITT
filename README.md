@@ -37,7 +37,7 @@
 `MySQL` · `MongoDB`
 
 **Otros:**
-`HTML` · `CSS` · `Git` · `REST APIs`
+`HTML` · `CSS` · `Git` · `REST APIs` · `TAILWINDCSS`
 
 ---
 
