@@ -31,13 +31,13 @@
 `JavaScript` · `Python` · `C#` · `SQL`
 
 **Frameworks y Librerías:**
-`React` · `Django` · `Firebase` · `Ignition`
+`React` · `Django` · `Ignition`
 
 **Bases de Datos:**
 `MySQL` · `MongoDB`
 
 **Otros:**
-`HTML` · `CSS` · `Git` · `REST APIs` · `TAILWINDCSS`
+`HTML` · `CSS` · `Git` · `REST APIs` · `TAILWINDCSS` · `Firebase`
 
 ---
 
