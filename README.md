@@ -31,10 +31,10 @@
 `JavaScript` · `Python` · `C#` · `SQL`
 
 **Frameworks y Librerías:**
-`React` · `Django` · `Ignition`
+`React` · `Django` · `Ignition` · `Blazor`
 
 **Bases de Datos:**
-`MySQL` · `MongoDB`
+`MySQL` · `MongoDB` · `SQLite`
 
 **Otros:**
 `HTML` · `CSS` · `Git` · `REST APIs` · `TAILWINDCSS` · `Firebase`
