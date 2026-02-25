@@ -20,7 +20,7 @@
 ### 📫 Contacto
 
 - ✉️ **Correo:** [adriancvtj@gmail.com](mailto:adriancvtj@gmail.com)  
-- 💼 **LinkedIn:** [Adrian Noe Alvarez Zacarias](https://www.linkedin.com/in/adrian-noe-alvarez-zacarias-b53239293/)  
+- 💼 **LinkedIn:** [Adrian Noe Alvarez Zacarias](https://www.linkedin.com/in/adrian-noe-alvarez-zacarias-245520262)  
 - 🐙 **GitHub:** [@AdrianITT](https://github.com/AdrianITT)
 
 ---
